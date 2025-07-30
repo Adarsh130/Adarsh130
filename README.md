@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, MERN , Python**
 
-- 👨‍💻 All of my projects are available at [https://bit-conference-2025.netlify.app](https://bit-conference-2025.netlify.app)
+- 👨‍💻 my projects at [https://bit-conference-2025.netlify.app](https://bit-conference-2025.netlify.app)
 
 - 📫 How to reach me **adarshpaswan1106@gmail.com**
 

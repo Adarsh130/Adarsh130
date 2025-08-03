@@ -29,4 +29,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adarsh2001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adarsh2001" /></a><a href="https://ko-fi.com/adarsh2001"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adarsh2001" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh130&" alt="adarsh130" /></p>
+
